@@ -1,233 +1,337 @@
-# 👋 Hi, I'm Thennarasi
+<div align="center">
 
-<h3 align="center">
-  Python Full Stack Developer | B.E. Computer Science Engineering Graduate
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=THENNARASI%20C&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=19"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Building+Responsive+Web+Applications;Learning+Modern+Web+Technologies;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-8.15%20CGPA-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Full%20Stack-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based%20In-Chennai%2C%20India-4C1D95?style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thennarasi.mcs@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👋 About Me
+
+```yaml
+name: Thennarasi C
+role: Python Full Stack Developer
+education: B.E. Computer Science and Engineering
+location: Chennai, India
+
+focus:
+  - Python Development
+  - Full Stack Web Development
+  - Database-Driven Applications
+  - Artificial Intelligence
+
+currently_learning:
+  - Django
+  - React.js
+  - Advanced JavaScript
+  - AI & Computer Vision
+
+mindset:
+  Learn → Build → Improve → Grow
+```
+
+I'm a **Python Full Stack Developer** with hands-on experience building responsive and database-driven web applications. I enjoy transforming ideas into practical projects using Python, Django, React.js, JavaScript, and MySQL.
+
+I'm particularly interested in **full-stack development, AI-powered applications, and computer vision**, while continuously improving my development and problem-solving skills.
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,mysql"/>
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 💫 About Me
+# 🚀 What I Build
 
-🎓 **B.E. Computer Science Engineering Graduate**
-
-💻 **Python Full Stack Developer | Fresher**
-
-🌱 Currently strengthening my skills in **Python, Django, JavaScript and React.js**
-
-🚀 Interested in building **responsive, user-friendly and real-world web applications**
-
-🤖 Worked on an AI-based final-year project using **YOLOv8, Python, OpenCV and Django**
-
-🔍 Passionate about learning new technologies and solving programming problems
-
-📌 Open to **entry-level opportunities, internships and collaborative projects**
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming & Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-</p>
-
-### 🚀 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-### 🤖 AI & Computer Vision
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
-</p>
-
-**Technologies:** YOLOv8 • OpenCV • Computer Vision • Real-Time Object Detection
+```text
+                    ┌──────────────────────┐
+                    │       MY GOAL        │
+                    │ Build Useful &       │
+                    │ Scalable Applications│
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ↓                ↓                ↓
+        Python Development  Web Development   AI Projects
+              │                │                │
+              ↓                ↓                ↓
+           Django          React.js         YOLOv8
+              │                │                │
+              └────────────────┼────────────────┘
+                               ↓
+                    Real-World Projects
+                               ↓
+                       Continuous Growth
+```
 
 ---
 
-## 🚀 Featured Project
+# 💼 Experience
 
-### 🌲 WILDGUARD
+### 🐍 Python Full Stack Developer — Pumo Technovation
 
-**Real-Time Forest Fire & Wildlife Poacher Detection and Alerting System using YOLOv8**
+**Chennai · 2026**
 
-An AI-powered forest monitoring system designed to detect threats such as:
+* Built and tested responsive web interfaces using **HTML, CSS, JavaScript, React, and Bootstrap**.
+* Integrated SQL databases into web applications for reliable data management and retrieval.
+* Debugged front-end and back-end issues across the application stack.
+* Strengthened practical skills in full-stack application development.
 
-* 🔥 Forest Fire
-* 💨 Smoke
-* 🧍 Unauthorized Persons / Poachers
-* 🐾 Wildlife
-* 🚗 Vehicles
-* ⚠️ Other predefined threat classes
+### ☕ Java Programming & SQL Developer — Besant Technologies
+
+**Chennai · 2025**
+
+* Developed Java applications using core object-oriented programming concepts.
+* Wrote and optimized SQL queries for efficient data handling.
+* Strengthened backend development and debugging skills through hands-on project work.
+
+---
+
+# ⭐ Featured Projects
+
+## 🔥 WildGuard — Real-Time Forest Fire & Wildlife Poacher Detection
+
+**Final Year Project**
+
+> AI-powered forest surveillance system designed to detect fire, smoke, poachers, and wildlife movement in real time.
 
 **Tech Stack**
 
-`Python` `YOLOv8` `OpenCV` `Django` `MySQL`
+`Python` `YOLOv8` `Django` `OpenCV`
 
-The system processes live camera/video input, detects objects using YOLOv8, generates alerts and displays detection information through a Django-based web dashboard.
+### Key Features
 
----
-
-## 💻 Current Projects
-
-| Project                  | Technologies               | Focus                |
-| ------------------------ | -------------------------- | -------------------- |
-| 🍔 Food Delivery Website | HTML, CSS, JavaScript      | E-commerce & Cart    |
-| 🌲 WILDGUARD             | Python, YOLOv8, Django     | AI & Computer Vision |
-| 🛋️ Furniture Website    | HTML, CSS                  | Responsive Frontend  |
-| 🤖 Child Rescue System   | Arduino, Robotics, Sensors | Rescue Automation    |
+* Real-time object detection using **YOLOv8**
+* Forest fire and smoke detection
+* Poacher and wildlife detection
+* Automated threat alerts
+* Detection image snapshots
+* Django-based monitoring application
 
 ---
 
-## 🧩 What I Work With
+## 🎫 Event Ticket Booking System
+
+**Tech Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+* Developed a responsive event booking website.
+* Created interactive event cards and booking interfaces.
+* Implemented client-side form validation.
+* Added JavaScript-based booking functionality.
+* Used responsive CSS media queries for mobile and desktop devices.
+
+---
+
+## 🛒 Sports E-Commerce Website
+
+**Tech Stack**
+
+`HTML5` `CSS3` `Bootstrap` `JavaScript`
+
+* Built a responsive sports e-commerce website.
+* Developed dynamic navigation and hero sections.
+* Implemented a product carousel.
+* Used Bootstrap, Flexbox, and custom CSS for responsive layouts.
+* Designed the interface to provide a consistent experience across devices.
+
+---
+
+# 🧠 AI & Development Interests
 
 ```text
-Frontend
-├── HTML
-├── CSS
-├── JavaScript
-├── Bootstrap
-└── React.js
-
-Backend
-├── Python
-└── Django
-
-Database
-└── MySQL
-
-AI / Computer Vision
-├── YOLOv8
-├── OpenCV
-└── PyTorch
-
-Development Tools
-├── Git
-├── GitHub
-└── VS Code
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thennarasi-005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thennarasi-005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thennarasi-005&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thennarasi-005&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Tools I Use
-
-| Tool            | Purpose                           |
-| --------------- | --------------------------------- |
-| 🐍 Python       | Programming & Backend Development |
-| 🌐 HTML/CSS     | Web Development                   |
-| ⚡ JavaScript    | Interactive Web Applications      |
-| ⚛️ React.js     | Frontend Development              |
-| 🟢 Django       | Python Web Development            |
-| 🗄️ MySQL       | Database Management               |
-| 🤖 YOLOv8       | Object Detection                  |
-| 👁️ OpenCV      | Computer Vision                   |
-| 🔧 Git & GitHub | Version Control                   |
-| 💻 VS Code      | Development                       |
-
----
-
-## 🎯 Learning Journey
-
-```text
-HTML + CSS
-     ↓
-JavaScript
-     ↓
 Python
-     ↓
-SQL + MySQL
-     ↓
-Django
-     ↓
-React.js
-     ↓
-Full Stack Development
-     ↓
-AI + Computer Vision
+   ↓
+Web Development
+   ↓
+Full Stack Applications
+   ↓
+Database Integration
+   ↓
+Artificial Intelligence
+   ↓
+Computer Vision
+   ↓
+Real-World Applications
 ```
 
----
-
-## 🌱 Currently Learning
+### Currently Exploring
 
 * 🐍 Advanced Python
 * 🌐 Django Full Stack Development
-* ⚡ JavaScript
 * ⚛️ React.js
-* 🗄️ SQL & Database Management
-* 🤖 AI & Computer Vision
-* 🔧 Git & GitHub
+* 🗄️ MySQL & Database Design
+* 🤖 Artificial Intelligence
+* 👁️ Computer Vision
+* 🔍 Object Detection with YOLO
 
 ---
 
-## 📫 Connect With Me
+# 📚 Certifications
 
-<p align="center">
+* **Python Full Stack Developer** — Pumo Technovation
+* **Web Developer Internship** — Cognifyz Technologies
+* **Generative AI Prompt Engineering** — Nunnari Labs
+* **AI and Life & Employability Skills Orientation** — Magic Bus India Foundation, supported by Infosys Foundation
 
-<a href="https://github.com/Thennarasi-005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+---
+
+# 🎓 Education
+
+### B.E. Computer Science and Engineering
+
+**Prince Shri Venkateshwara Padmavathy Engineering College, Chennai**
+
+**2022 – 2026 | CGPA: 8.15 / 10**
+
+---
+
+# 📈 My Development Journey
+
+```text
+       Computer Science Engineering
+                    ↓
+              Programming
+                    ↓
+          Web Development
+                    ↓
+          Python Development
+                    ↓
+         Full Stack Development
+                    ↓
+         Database Applications
+                    ↓
+       AI & Computer Vision Projects
+                    ↓
+          Real-World Applications
+                    ↓
+         Continuous Professional Growth
+```
+
+> **Learn → Build → Improve → Grow**
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - Python
+  - Django
+  - React.js
+  - JavaScript
+  - MySQL
+
+building:
+  - Full Stack Web Applications
+  - Database-Driven Applications
+  - AI-Based Projects
+
+exploring:
+  - Artificial Intelligence
+  - Computer Vision
+  - YOLO Object Detection
+
+goal:
+  - Grow as a Python Full Stack Developer
+  - Build Practical Real-World Applications
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Improving-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:thennarasi.mcs@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💡 Pro Tip
+<div align="center">
 
-> **"Learn → Build → Break → Debug → Improve → Repeat."**
+## ✨ Keep Building. Keep Learning. Keep Growing.
 
-I believe the best way to learn development is by building real projects and continuously improving them.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+React+%7C+MySQL;Code+%7C+Learn+%7C+Build+%7C+Grow;Turning+Ideas+Into+Real+Projects;One+Project+At+A+Time+%F0%9F%9A%80" alt="Footer Animation"/>
 
----
+<br><br>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<p align="center">
-  <b>Let's build something meaningful together.</b>
-</p>
+</div>
+
