@@ -5,9 +5,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Thennarasi-005">
-    <img src="https://komarev.com/ghpvc/?username=Thennarasi-005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
