@@ -111,7 +111,7 @@ I'm particularly interested in **full-stack development, AI-powered applications
 
 ---
 
-# 💼 Experience
+# 💼 Internship
 
 ### 🐍 Python Full Stack Developer — Pumo Technovation
 
